@@ -82,7 +82,7 @@ const config = {
             label: 'JS Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to:'/video', label:'Video',position:'left'},
+     
 
           {
             href: 'https://github.com/facebook/docusaurus',
